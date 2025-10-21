@@ -1,0 +1,36 @@
+# SaveSmart SQL Project
+
+This project simulates customer data for a fictional fintech company, SaveSmart.  
+It includes tables for customer information and savings balances, useful for exploring:
+- Customer segmentation
+- Savings behavior
+- Churn prediction
+- SQL querying and database design
+
+### Technologies Used
+- PostgreSQL
+- SQL (Data Definition & Manipulation)
+- CSV data import/export
+
+### Example Columns
+| Column | Type | Description |
+|--------|------|-------------|
+| first_name | text | Customer’s first name |
+| last_name | text | Customer’s last name |
+| country | text | Customer’s country |
+| age | int | Customer’s age |
+| savings_balance | double | Current savings balance |
+| is_active | boolean | Account activity status |
+| churned | boolean | customer retention status |
+
+---
+
+### How to Use
+1. Create a new database named `savesmart`.
+2. Run the SQL file to create and populate the table.
+3. Query the dataset to explore trends in savings and activity.
+
+---
+
+###Author
+**Boluwatife Odusanya**  
