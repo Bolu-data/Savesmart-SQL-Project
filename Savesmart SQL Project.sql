@@ -16,8 +16,7 @@ GROUP BY gender;
 -- I want to get the average the savings balance of all users
 SELECT AVG(savings_balance) AS avg_balance
 FROM savesmart;
--- Now I want to study the savings behaviour...
--- I want to sort the customers with the highest savings balance
+-- Now, I want to study the savings behaviour and sort the customers with the highest savings balance
 SELECT first_name, last_name, savings_balance
 FROM savesmart
 ORDER BY savings_balance DESC
@@ -81,7 +80,7 @@ SELECT
 FROM savesmart
 GROUP BY age_group
 ORDER BY churn_rate DESC;
--- CUSTOMERS AT RISK OF CHURNING, based in their low balance and activity on the app
+-- CUSTOMERS AT RISK OF CHURNING, based on their low savings balance and activity on the app
 SELECT 
     first_name,
     last_name,
@@ -108,7 +107,7 @@ FROM savesmart
 GROUP BY age_group
 ORDER BY avg_savings DESC;
 
--- SaveSmart Customer Insights Dashboard
+-- Savesmart Customer Insights Dashboard
 
 -- 1️General Customer Summary
 SELECT 
