@@ -1,0 +1,1001 @@
+first_name,last_name,age,gender,country,savings_balance,is_active,churned
+Chinedu,Brown,38,Male,France,264.34,TRUE,FALSE
+Isla,Adeyemi,28,Male,United Kingdom,377.69,TRUE,FALSE
+Ethan,Evans,24,Female,Nigeria,897.5,TRUE,FALSE
+Ifeoma,Smith,27,Female,United Kingdom,703.32,FALSE,FALSE
+Tosin,Okafor,42,Male,France,3492.81,FALSE,FALSE
+Ifeoma,Jones,36,Female,Germany,885.42,TRUE,FALSE
+Charlotte,Dlamini,37,Female,France,1487.69,TRUE,TRUE
+Tosin,Roberts,18,Other,South Africa,1947.75,TRUE,FALSE
+Chinedu,Ibrahim,37,Male,France,757.52,TRUE,FALSE
+Alexander,Davies,19,Female,United Kingdom,1559.65,TRUE,FALSE
+Emily,Okafor,25,Female,Nigeria,2280.11,FALSE,TRUE
+Oliver,Thomas,30,Male,South Africa,1976.06,TRUE,FALSE
+Chinedu,Mensah,19,Male,South Africa,821.83,TRUE,FALSE
+Femi,Okoye,33,Female,Nigeria,698.52,TRUE,FALSE
+Emily,Taylor,32,Female,United Kingdom,630.14,TRUE,FALSE
+Ifeoma,Nwankwo,48,Female,France,238.79,TRUE,FALSE
+Ethan,Smith,18,Female,United Kingdom,2803.33,TRUE,FALSE
+Ava,Roberts,30,Male,Germany,672.37,FALSE,FALSE
+Mason,Davies,36,Female,United Kingdom,2696.4,TRUE,FALSE
+Alexander,Evans,36,Male,Nigeria,780.63,TRUE,FALSE
+Bolaji,Smith,45,Female,Germany,98.36,TRUE,FALSE
+Emily,Jones,42,Male,Spain,734.5,FALSE,FALSE
+Tosin,Okoye,23,Female,United Kingdom,3764.11,TRUE,FALSE
+Mason,Dlamini,44,Male,United Kingdom,1293.73,TRUE,FALSE
+Aisha,Roberts,34,Male,Nigeria,445.49,FALSE,FALSE
+Ava,Wilson,37,Male,France,1393.5,FALSE,FALSE
+Olivia,Williams,30,Female,United Kingdom,930.29,TRUE,TRUE
+Isla,Chukwu,29,Male,Nigeria,498.38,TRUE,FALSE
+Emily,Mensah,34,Female,United Kingdom,1593.08,TRUE,FALSE
+Elijah,Adebayo,26,Female,United Kingdom,1920.97,TRUE,FALSE
+Oliver,Okafor,55,Female,United Kingdom,112.98,TRUE,FALSE
+Elijah,Davies,31,Male,United Kingdom,886.25,TRUE,FALSE
+Ava,Jones,29,Female,Germany,1142.39,TRUE,FALSE
+Lily,Nwankwo,31,Female,United Kingdom,1137.16,TRUE,TRUE
+Olivia,Ogunleye,32,Male,Nigeria,1875.6,FALSE,FALSE
+Ngozi,Mensah,27,Male,France,2950.96,TRUE,FALSE
+Amelia,Okafor,41,Male,Spain,1020.27,FALSE,FALSE
+Amelia,Chukwu,49,Male,United Kingdom,1791.15,FALSE,FALSE
+Oliver,Brown,37,Female,Spain,418.51,FALSE,TRUE
+Elijah,Adeyemi,41,Female,France,2323.17,TRUE,FALSE
+Emily,Thomas,38,Male,Nigeria,139.03,FALSE,FALSE
+Olivia,Adebayo,45,Female,Spain,2376.66,TRUE,FALSE
+Mia,Taylor,33,Female,South Africa,3757.04,TRUE,FALSE
+James,Okoye,30,Female,Spain,3425.78,FALSE,FALSE
+Ngozi,Okoye,55,Male,Nigeria,705.59,TRUE,FALSE
+Segun,Brown,44,Female,United Kingdom,177.47,FALSE,TRUE
+Ella,Thomas,20,Female,France,4572.23,FALSE,TRUE
+Abubakar,Thomas,18,Male,France,8172.45,TRUE,FALSE
+Femi,Adebayo,29,Female,Germany,635.12,TRUE,FALSE
+Ethan,Jones,25,Female,Spain,2011.96,TRUE,FALSE
+Liam,Jones,31,Female,United Kingdom,155.18,TRUE,FALSE
+Alexander,Taylor,18,Female,United Kingdom,1889.38,TRUE,FALSE
+Segun,Nwankwo,18,Male,Nigeria,1049.51,TRUE,FALSE
+Mia,Davies,22,Female,United Kingdom,553.5,TRUE,FALSE
+Ella,Adebayo,28,Male,Nigeria,1292.41,TRUE,FALSE
+Oliver,Okafor,39,Male,United Kingdom,732.79,TRUE,FALSE
+Oliver,Okoye,18,Male,United Kingdom,1865.52,TRUE,FALSE
+Amelia,Brown,49,Female,France,494.3,TRUE,FALSE
+Ava,Ogunleye,50,Female,United Kingdom,1376.08,TRUE,FALSE
+Bolaji,Okoye,30,Female,South Africa,5099.74,TRUE,FALSE
+Isla,Okafor,27,Female,Nigeria,632.36,TRUE,FALSE
+Charlotte,Nwankwo,37,Male,Nigeria,1324.96,TRUE,FALSE
+Ngozi,Davies,18,Female,France,819.54,TRUE,TRUE
+Ella,Nwankwo,18,Female,Spain,348.62,TRUE,FALSE
+Mason,Mensah,44,Female,Kenya,1305.34,TRUE,FALSE
+Mason,Dlamini,35,Male,Nigeria,1842.03,TRUE,FALSE
+Ifeoma,Evans,37,Male,United Kingdom,5184.45,TRUE,FALSE
+James,Nwankwo,27,Female,Spain,2776.04,TRUE,FALSE
+Emily,Taylor,36,Female,United Kingdom,1031.03,FALSE,FALSE
+Tosin,Nwankwo,29,Male,Nigeria,2287.3,FALSE,FALSE
+Bolaji,Brown,31,Male,Nigeria,1273.1,FALSE,FALSE
+Tosin,Adebayo,18,Female,Nigeria,707.65,FALSE,FALSE
+James,Davies,36,Female,Germany,1192.87,FALSE,TRUE
+Tosin,Chukwu,36,Female,United Kingdom,2597.88,TRUE,FALSE
+Mia,Okafor,34,Male,Germany,1627.14,TRUE,FALSE
+Aisha,Evans,42,Male,Germany,601.88,TRUE,FALSE
+Abubakar,Nwankwo,31,Male,Nigeria,868.9,TRUE,TRUE
+Lucas,Smith,23,Female,France,938.81,FALSE,FALSE
+Ethan,Okoye,35,Female,South Africa,847.88,FALSE,FALSE
+Olivia,Ogunleye,47,Male,Nigeria,200.81,FALSE,TRUE
+Bolaji,Taylor,19,Other,Germany,111.93,TRUE,FALSE
+Isla,Nwankwo,34,Male,Germany,448.23,FALSE,FALSE
+James,Okafor,30,Male,South Africa,84.2,TRUE,FALSE
+Mia,Williams,18,Male,Nigeria,1063.79,TRUE,FALSE
+Chinedu,Williams,18,Female,Nigeria,2532.76,FALSE,FALSE
+Abubakar,Smith,30,Female,United Kingdom,2549.62,TRUE,FALSE
+James,Thomas,28,Female,United Kingdom,1053.89,TRUE,FALSE
+Tosin,Davies,50,Other,United Kingdom,953.35,TRUE,FALSE
+Oliver,Evans,39,Male,Nigeria,343.79,FALSE,TRUE
+Kemi,Dlamini,39,Female,Nigeria,242,TRUE,TRUE
+Elijah,Ibrahim,28,Male,Spain,143.45,FALSE,FALSE
+Ava,Nwankwo,53,Other,Spain,1205.53,TRUE,FALSE
+Lily,Chukwu,26,Other,France,2781.31,FALSE,FALSE
+James,Nwankwo,46,Female,Spain,4923.19,TRUE,FALSE
+Mia,Adebayo,38,Male,Germany,2893.92,FALSE,FALSE
+Lucas,Okafor,45,Male,United Kingdom,172.25,FALSE,FALSE
+Ethan,Smith,46,Female,United Kingdom,383.83,FALSE,FALSE
+Tosin,Wilson,20,Female,Spain,817.43,TRUE,FALSE
+Charlotte,Wilson,29,Male,United Kingdom,675.12,TRUE,FALSE
+Mason,Ibrahim,18,Male,Nigeria,2112.94,TRUE,FALSE
+Charlotte,Thomas,22,Male,Nigeria,345.66,TRUE,FALSE
+Ella,Evans,39,Female,France,1453.22,TRUE,FALSE
+Ava,Evans,28,Male,France,694,TRUE,FALSE
+Mia,Jones,39,Other,Spain,692.2,TRUE,FALSE
+Ava,Smith,28,Female,Germany,1927.98,FALSE,TRUE
+Mia,Mensah,18,Male,United Kingdom,2411.27,FALSE,FALSE
+Sophia,Taylor,44,Female,South Africa,964.64,TRUE,FALSE
+Alexander,Dlamini,38,Female,United Kingdom,4299.56,TRUE,FALSE
+Charlotte,Adeyemi,40,Other,France,3709.91,TRUE,FALSE
+Tosin,Evans,35,Female,France,1024.24,TRUE,FALSE
+Isla,Davies,28,Male,Germany,731.84,TRUE,FALSE
+Charlotte,Roberts,21,Female,Germany,573.47,TRUE,FALSE
+Elijah,Brown,40,Female,Spain,4799.19,FALSE,FALSE
+Amelia,Davies,26,Female,Spain,1796.44,TRUE,FALSE
+Ava,Adebayo,37,Female,Nigeria,188.55,FALSE,FALSE
+James,Williams,46,Female,South Africa,643.47,TRUE,FALSE
+Isla,Wilson,35,Other,Nigeria,13.55,TRUE,FALSE
+Henry,Jones,58,Female,United Kingdom,92,TRUE,FALSE
+Lily,Adeyemi,33,Male,Nigeria,2336.03,TRUE,FALSE
+Noah,Okafor,31,Female,South Africa,1388.28,TRUE,FALSE
+Ngozi,Ogunleye,47,Female,Spain,1845.35,TRUE,FALSE
+Ava,Ogunleye,35,Female,Nigeria,1374.09,TRUE,FALSE
+Elijah,Jones,27,Male,France,1509.02,TRUE,FALSE
+Ella,Thomas,24,Female,South Africa,174.41,TRUE,FALSE
+Olivia,Dlamini,37,Female,Nigeria,4412.36,FALSE,TRUE
+Isla,Wilson,18,Other,South Africa,1655.6,TRUE,FALSE
+Lucas,Roberts,48,Female,France,357.44,FALSE,FALSE
+James,Okoye,37,Male,United Kingdom,787.57,TRUE,FALSE
+Kemi,Williams,30,Male,Nigeria,3500.61,TRUE,FALSE
+Mia,Smith,18,Male,France,1300.45,TRUE,FALSE
+Kemi,Taylor,30,Male,Germany,376.58,TRUE,FALSE
+James,Okafor,34,Female,Kenya,708.73,TRUE,FALSE
+Amelia,Okafor,43,Female,Nigeria,213.35,TRUE,FALSE
+Lucas,Jones,24,Male,Kenya,643.44,FALSE,TRUE
+Ava,Chukwu,35,Female,United Kingdom,458.57,FALSE,FALSE
+Isla,Mensah,23,Female,France,1573.89,TRUE,FALSE
+Kemi,Okafor,33,Female,South Africa,2324.57,TRUE,FALSE
+Kemi,Okoye,44,Male,United Kingdom,471.17,TRUE,FALSE
+Femi,Williams,23,Male,United Kingdom,271.21,TRUE,FALSE
+Lily,Roberts,35,Female,United Kingdom,2559.06,TRUE,FALSE
+Elijah,Taylor,20,Male,Germany,1676.57,FALSE,TRUE
+Isla,Dlamini,31,Female,Spain,426.24,TRUE,FALSE
+Emily,Adebayo,35,Female,Germany,622.6,TRUE,FALSE
+Segun,Roberts,24,Female,United Kingdom,809.66,TRUE,FALSE
+Chinedu,Nwankwo,36,Female,Germany,2471.75,TRUE,FALSE
+Ava,Wilson,38,Male,France,270.33,TRUE,FALSE
+Abubakar,Ogunleye,31,Male,Spain,1000.8,FALSE,FALSE
+Bolaji,Dlamini,30,Female,Nigeria,1289.3,TRUE,FALSE
+Alexander,Ibrahim,25,Male,United Kingdom,402.8,TRUE,FALSE
+Chinedu,Brown,22,Female,Spain,1614.43,TRUE,FALSE
+Femi,Taylor,37,Male,France,5139.5,TRUE,FALSE
+Ifeoma,Okoye,31,Female,France,849.05,TRUE,FALSE
+Mia,Mensah,26,Other,France,6173.3,TRUE,FALSE
+Isla,Taylor,34,Female,United Kingdom,2318.6,FALSE,FALSE
+Kemi,Okoye,26,Male,Nigeria,917.78,FALSE,FALSE
+Liam,Thomas,36,Female,Nigeria,2727.22,FALSE,TRUE
+Lucas,Smith,27,Female,South Africa,1159.33,TRUE,FALSE
+Chinedu,Adebayo,31,Female,France,834.66,TRUE,FALSE
+Charlotte,Mensah,27,Male,United Kingdom,486.48,TRUE,FALSE
+Ngozi,Okoye,36,Male,Nigeria,63.31,TRUE,FALSE
+Abubakar,Mensah,35,Female,South Africa,867.21,FALSE,FALSE
+James,Adebayo,18,Female,South Africa,2429.13,TRUE,FALSE
+Segun,Ibrahim,22,Male,France,911.6,FALSE,FALSE
+Isla,Evans,35,Female,Spain,1860.19,TRUE,FALSE
+Sophia,Adeyemi,29,Male,Nigeria,615.16,FALSE,FALSE
+Noah,Taylor,45,Female,Spain,1013.91,FALSE,FALSE
+Ethan,Thomas,47,Female,United Kingdom,1459.02,TRUE,FALSE
+Ifeoma,Wilson,36,Female,United Kingdom,1556.72,TRUE,FALSE
+Mason,Brown,45,Female,Germany,382.85,TRUE,FALSE
+James,Chukwu,40,Male,Spain,2021.46,FALSE,FALSE
+Charlotte,Adebayo,30,Female,United Kingdom,3191.56,TRUE,FALSE
+Ngozi,Brown,36,Female,South Africa,2099.15,TRUE,FALSE
+Isla,Taylor,31,Male,Spain,760.35,FALSE,FALSE
+Charlotte,Adebayo,33,Female,Germany,2932.09,TRUE,FALSE
+Femi,Evans,36,Male,South Africa,2147.12,TRUE,FALSE
+Elijah,Brown,31,Male,France,421.7,FALSE,FALSE
+Isla,Williams,22,Female,United Kingdom,1447.79,FALSE,FALSE
+Ethan,Jones,19,Female,Spain,1280.39,TRUE,FALSE
+Kemi,Nwankwo,19,Female,Nigeria,1281.69,TRUE,FALSE
+Ava,Adeyemi,52,Female,United Kingdom,2219.49,TRUE,FALSE
+Kemi,Okoye,32,Male,Nigeria,597.91,TRUE,FALSE
+Olivia,Dlamini,25,Female,Nigeria,707.77,FALSE,TRUE
+Bolaji,Okafor,31,Male,United Kingdom,203.92,TRUE,FALSE
+Sophia,Smith,28,Male,Germany,1975.55,FALSE,FALSE
+Liam,Roberts,22,Female,Nigeria,1450.35,TRUE,TRUE
+Sophia,Davies,37,Female,United Kingdom,338.29,TRUE,FALSE
+Lucas,Dlamini,43,Male,France,152.58,FALSE,TRUE
+Ava,Roberts,35,Female,Spain,821.36,TRUE,FALSE
+Oliver,Dlamini,18,Male,United Kingdom,2121.92,TRUE,FALSE
+Charlotte,Okafor,25,Male,Germany,923.42,TRUE,FALSE
+Aisha,Wilson,38,Female,Nigeria,1082.51,TRUE,FALSE
+Elijah,Smith,29,Male,United Kingdom,1513.83,TRUE,FALSE
+Aisha,Nwankwo,27,Male,Germany,2058.95,FALSE,FALSE
+Abubakar,Ibrahim,30,Male,Nigeria,2668.64,TRUE,FALSE
+Isla,Ogunleye,36,Female,Nigeria,338.47,TRUE,FALSE
+Mason,Brown,45,Female,United Kingdom,2136.27,TRUE,FALSE
+Emily,Brown,30,Male,United Kingdom,247.23,FALSE,FALSE
+Lily,Mensah,39,Male,Spain,494.04,TRUE,FALSE
+Kemi,Okafor,45,Male,United Kingdom,1387.33,FALSE,FALSE
+Henry,Jones,52,Male,United Kingdom,655.06,FALSE,TRUE
+Abubakar,Roberts,24,Male,South Africa,657.79,TRUE,FALSE
+Oliver,Adebayo,41,Female,Kenya,3923.77,TRUE,FALSE
+Noah,Dlamini,22,Male,United Kingdom,934.04,TRUE,FALSE
+Aisha,Williams,47,Female,United Kingdom,3494.54,FALSE,FALSE
+Mason,Chukwu,40,Female,France,730.82,TRUE,FALSE
+Ngozi,Dlamini,35,Male,Spain,575.23,FALSE,FALSE
+Charlotte,Thomas,41,Female,Nigeria,1416.94,FALSE,FALSE
+Isla,Adeyemi,42,Female,South Africa,787.11,TRUE,FALSE
+Sophia,Dlamini,33,Female,United Kingdom,1366.68,FALSE,FALSE
+Abubakar,Taylor,38,Female,Nigeria,1032.63,FALSE,FALSE
+Isla,Nwankwo,34,Female,United Kingdom,2613.02,TRUE,FALSE
+Tosin,Mensah,18,Male,Kenya,602.95,TRUE,FALSE
+Mason,Okoye,50,Female,South Africa,1043.69,FALSE,FALSE
+Alexander,Ogunleye,48,Male,United Kingdom,702.37,TRUE,FALSE
+Femi,Adebayo,29,Male,France,294.4,TRUE,FALSE
+Tosin,Adebayo,44,Male,United Kingdom,1033.23,TRUE,FALSE
+Liam,Adeyemi,30,Other,Germany,4936.02,TRUE,FALSE
+Elijah,Davies,20,Female,Nigeria,370.15,FALSE,TRUE
+Kemi,Ibrahim,29,Female,United Kingdom,1306.05,TRUE,FALSE
+Isla,Davies,49,Male,South Africa,522.13,TRUE,FALSE
+Abubakar,Adebayo,41,Female,South Africa,2351.15,TRUE,FALSE
+Emily,Ogunleye,18,Other,France,1325.52,FALSE,FALSE
+Ifeoma,Taylor,27,Male,France,851.95,FALSE,FALSE
+Tosin,Mensah,18,Male,United Kingdom,1176.59,TRUE,FALSE
+Ethan,Dlamini,22,Female,United Kingdom,434.8,TRUE,FALSE
+Emily,Nwankwo,45,Female,Spain,151.47,TRUE,FALSE
+Alexander,Okoye,39,Male,Germany,181.36,FALSE,TRUE
+Olivia,Dlamini,18,Male,Spain,1913.84,TRUE,FALSE
+Liam,Williams,32,Female,Germany,832.35,FALSE,FALSE
+Oliver,Mensah,31,Male,France,3751.46,TRUE,FALSE
+Ifeoma,Williams,23,Male,Nigeria,5307.17,TRUE,FALSE
+Sophia,Jones,53,Male,France,953.38,FALSE,FALSE
+Aisha,Mensah,36,Female,Nigeria,538.04,TRUE,FALSE
+Amelia,Roberts,32,Male,Nigeria,764.86,TRUE,FALSE
+Mason,Ogunleye,28,Other,Germany,4350.91,FALSE,FALSE
+Charlotte,Ibrahim,38,Female,United Kingdom,1264.74,FALSE,FALSE
+Elijah,Ogunleye,33,Female,South Africa,401.67,FALSE,FALSE
+Aisha,Mensah,25,Male,Nigeria,175.58,FALSE,TRUE
+Isla,Nwankwo,45,Female,Nigeria,317.61,TRUE,FALSE
+Noah,Roberts,32,Male,Spain,362.28,TRUE,FALSE
+James,Jones,40,Female,South Africa,2181.89,TRUE,FALSE
+Isla,Ogunleye,31,Male,Nigeria,1125.4,FALSE,FALSE
+Kemi,Dlamini,18,Female,Germany,552.06,FALSE,FALSE
+Liam,Ogunleye,36,Female,United Kingdom,900.88,TRUE,FALSE
+Liam,Adebayo,28,Female,Spain,147.67,FALSE,FALSE
+Emily,Brown,25,Male,United Kingdom,1032.51,FALSE,FALSE
+Mia,Thomas,42,Female,United Kingdom,779.63,TRUE,FALSE
+Ella,Brown,39,Male,United Kingdom,111.34,TRUE,FALSE
+Ifeoma,Okafor,32,Female,Nigeria,268.95,TRUE,FALSE
+Kemi,Davies,46,Female,South Africa,2156.61,FALSE,FALSE
+Emily,Brown,18,Other,Nigeria,1250.65,FALSE,FALSE
+Ethan,Adeyemi,35,Male,Nigeria,1807.34,TRUE,FALSE
+Isla,Roberts,31,Male,Nigeria,9.97,FALSE,FALSE
+Abubakar,Adeyemi,54,Male,Kenya,3779.69,TRUE,FALSE
+Liam,Taylor,40,Female,Nigeria,630.43,TRUE,FALSE
+Elijah,Chukwu,43,Female,United Kingdom,360.85,TRUE,FALSE
+Lily,Okafor,32,Female,United Kingdom,3358.44,TRUE,FALSE
+Kemi,Williams,27,Male,Spain,211.24,TRUE,FALSE
+Alexander,Okoye,49,Male,Spain,634.86,FALSE,FALSE
+Ngozi,Dlamini,23,Female,Spain,1216.26,TRUE,FALSE
+Isla,Jones,32,Female,Nigeria,614.63,FALSE,TRUE
+Alexander,Smith,38,Female,Spain,931.01,TRUE,FALSE
+Emily,Ogunleye,38,Male,United Kingdom,534.58,FALSE,FALSE
+James,Evans,36,Male,United Kingdom,950.22,TRUE,FALSE
+Oliver,Taylor,42,Female,Germany,729.41,TRUE,FALSE
+Mia,Adebayo,26,Male,United Kingdom,3014.48,TRUE,FALSE
+Emily,Davies,27,Female,South Africa,212.69,TRUE,FALSE
+Lucas,Chukwu,18,Male,South Africa,992.09,FALSE,TRUE
+Mason,Adebayo,25,Other,United Kingdom,688.24,TRUE,TRUE
+Alexander,Mensah,28,Male,United Kingdom,526.64,FALSE,TRUE
+Femi,Ibrahim,46,Female,France,553.78,TRUE,FALSE
+Liam,Okoye,40,Male,France,1.47,FALSE,FALSE
+Sophia,Brown,40,Male,Nigeria,393.48,FALSE,FALSE
+Ella,Dlamini,29,Female,Germany,786.35,TRUE,FALSE
+Ifeoma,Mensah,38,Female,United Kingdom,1587.99,TRUE,FALSE
+Lily,Ogunleye,18,Other,Nigeria,1482.98,FALSE,FALSE
+Ethan,Mensah,42,Female,France,1696.92,FALSE,FALSE
+Elijah,Adeyemi,18,Male,South Africa,979.05,TRUE,FALSE
+Mia,Adeyemi,18,Female,Nigeria,138.36,FALSE,TRUE
+Sophia,Wilson,31,Male,South Africa,2059.2,TRUE,TRUE
+Elijah,Taylor,40,Male,United Kingdom,979.52,FALSE,FALSE
+Kemi,Jones,34,Female,Germany,444.9,TRUE,FALSE
+Mason,Ogunleye,28,Male,United Kingdom,3097.32,FALSE,FALSE
+Ngozi,Thomas,22,Female,United Kingdom,533.34,FALSE,FALSE
+Charlotte,Roberts,34,Female,Nigeria,549.44,TRUE,FALSE
+Charlotte,Brown,25,Female,Germany,3458.95,TRUE,FALSE
+Tosin,Taylor,28,Male,France,1572.19,TRUE,FALSE
+Chinedu,Thomas,45,Female,United Kingdom,2067.83,TRUE,FALSE
+Sophia,Brown,39,Female,Spain,532.28,TRUE,FALSE
+Emily,Wilson,30,Male,Germany,1976.05,TRUE,FALSE
+Olivia,Okoye,33,Other,United Kingdom,397.42,FALSE,FALSE
+Lucas,Evans,34,Female,France,155.11,FALSE,TRUE
+Chinedu,Adeyemi,26,Male,Nigeria,1589.96,FALSE,TRUE
+Elijah,Davies,38,Female,United Kingdom,1440.1,TRUE,FALSE
+Bolaji,Roberts,40,Female,United Kingdom,2384.24,FALSE,TRUE
+Charlotte,Adebayo,55,Other,Germany,1047.89,TRUE,FALSE
+James,Thomas,28,Male,United Kingdom,375.2,FALSE,FALSE
+Aisha,Davies,36,Male,France,184.34,TRUE,FALSE
+Lily,Dlamini,41,Female,South Africa,689.64,TRUE,FALSE
+Oliver,Brown,18,Male,United Kingdom,2890.88,TRUE,FALSE
+Oliver,Wilson,34,Male,France,215.5,FALSE,FALSE
+Mia,Ibrahim,35,Female,United Kingdom,1174.5,FALSE,FALSE
+Ngozi,Chukwu,29,Female,South Africa,111.91,TRUE,FALSE
+Liam,Dlamini,31,Male,Kenya,1053,TRUE,FALSE
+Elijah,Okoye,20,Female,Nigeria,1634.51,FALSE,FALSE
+Ngozi,Dlamini,34,Female,United Kingdom,122.61,TRUE,FALSE
+Bolaji,Adeyemi,25,Male,Nigeria,459.27,TRUE,FALSE
+Sophia,Davies,33,Male,Germany,10.03,TRUE,FALSE
+Isla,Chukwu,37,Male,United Kingdom,697.53,FALSE,FALSE
+Ethan,Adebayo,33,Female,France,1438.67,TRUE,FALSE
+Femi,Evans,27,Female,United Kingdom,345.45,TRUE,TRUE
+Bolaji,Williams,32,Other,Germany,22.15,FALSE,TRUE
+Tosin,Nwankwo,31,Male,South Africa,1609.11,FALSE,FALSE
+Oliver,Williams,41,Female,Nigeria,1464.19,TRUE,FALSE
+Ava,Davies,36,Other,France,2551.88,TRUE,FALSE
+Tosin,Smith,33,Other,Germany,355.67,TRUE,FALSE
+Abubakar,Wilson,34,Male,France,1784.32,FALSE,FALSE
+Amelia,Nwankwo,34,Female,South Africa,1214.44,TRUE,FALSE
+Ava,Dlamini,42,Male,Spain,925.85,TRUE,FALSE
+Oliver,Adebayo,29,Male,United Kingdom,1336.84,FALSE,TRUE
+Charlotte,Wilson,30,Female,Nigeria,129.85,FALSE,FALSE
+Emily,Roberts,45,Female,Kenya,139.35,TRUE,FALSE
+Amelia,Okoye,37,Female,South Africa,1506.96,FALSE,FALSE
+Ethan,Mensah,44,Male,France,5719.48,TRUE,FALSE
+Noah,Nwankwo,25,Male,France,1196.88,FALSE,FALSE
+Kemi,Wilson,45,Male,Nigeria,2072.53,TRUE,FALSE
+Elijah,Okoye,53,Female,France,1170.99,TRUE,FALSE
+Bolaji,Adebayo,30,Female,United Kingdom,2623.33,FALSE,FALSE
+Oliver,Dlamini,34,Female,South Africa,823.89,TRUE,FALSE
+Lucas,Evans,18,Female,France,4286.34,TRUE,TRUE
+Femi,Brown,40,Female,Nigeria,4368.15,FALSE,FALSE
+Oliver,Wilson,32,Female,Nigeria,258.64,TRUE,FALSE
+Charlotte,Thomas,29,Male,South Africa,473.39,TRUE,FALSE
+Tosin,Okafor,23,Female,France,64.61,FALSE,FALSE
+Femi,Taylor,29,Male,Spain,1628.65,TRUE,FALSE
+Sophia,Evans,22,Male,France,653.99,FALSE,FALSE
+Mia,Mensah,32,Other,Spain,1551.12,TRUE,FALSE
+Lily,Taylor,46,Female,Germany,853.93,FALSE,FALSE
+Mason,Jones,43,Female,United Kingdom,134.68,FALSE,TRUE
+Elijah,Taylor,36,Female,United Kingdom,1043.85,FALSE,TRUE
+James,Ibrahim,36,Male,Spain,1914.95,FALSE,FALSE
+Olivia,Smith,34,Female,Germany,335.95,FALSE,FALSE
+Charlotte,Smith,28,Female,Nigeria,425.13,TRUE,FALSE
+Ava,Brown,36,Female,United Kingdom,473.97,TRUE,FALSE
+Mia,Ogunleye,24,Male,Kenya,1432.89,TRUE,FALSE
+Charlotte,Williams,53,Female,South Africa,1667.92,FALSE,TRUE
+Oliver,Okoye,39,Male,Spain,25.29,TRUE,TRUE
+Chinedu,Okafor,36,Female,South Africa,497.73,TRUE,FALSE
+Emily,Evans,26,Female,Nigeria,79.71,FALSE,FALSE
+Ngozi,Thomas,49,Female,Spain,542.18,FALSE,FALSE
+Olivia,Evans,42,Female,Nigeria,4780.71,TRUE,FALSE
+Charlotte,Davies,32,Female,Spain,2669.07,TRUE,FALSE
+Noah,Ogunleye,37,Female,United Kingdom,1090.93,FALSE,FALSE
+Femi,Ibrahim,42,Male,Germany,1120.13,FALSE,FALSE
+Tosin,Okafor,45,Male,France,2391.51,TRUE,FALSE
+Ethan,Ogunleye,36,Male,Nigeria,749.79,TRUE,FALSE
+Ifeoma,Wilson,43,Female,United Kingdom,1930.02,FALSE,FALSE
+Femi,Ogunleye,31,Male,United Kingdom,702.03,FALSE,FALSE
+Tosin,Thomas,49,Male,United Kingdom,452.7,TRUE,FALSE
+Elijah,Brown,33,Male,France,723.26,TRUE,FALSE
+Kemi,Ogunleye,38,Male,Germany,1021.73,FALSE,FALSE
+Henry,Chukwu,23,Male,France,270.52,FALSE,FALSE
+Sophia,Williams,29,Male,France,783.96,TRUE,FALSE
+Mia,Wilson,22,Female,Germany,162.91,TRUE,FALSE
+Charlotte,Smith,40,Female,France,851.04,FALSE,FALSE
+James,Okafor,18,Male,Nigeria,1597.24,TRUE,FALSE
+Noah,Dlamini,21,Female,United Kingdom,307.05,TRUE,FALSE
+Charlotte,Mensah,34,Other,Nigeria,516.19,TRUE,FALSE
+Liam,Brown,26,Female,United Kingdom,3883.66,TRUE,FALSE
+Olivia,Adebayo,41,Female,United Kingdom,1448.35,TRUE,FALSE
+Abubakar,Nwankwo,33,Female,United Kingdom,3149.37,FALSE,FALSE
+Aisha,Nwankwo,34,Female,United Kingdom,1591.26,TRUE,FALSE
+Ethan,Chukwu,22,Female,South Africa,165.57,TRUE,TRUE
+Aisha,Okoye,22,Female,South Africa,269.05,TRUE,FALSE
+Lily,Dlamini,34,Male,Kenya,3696.56,TRUE,FALSE
+Ifeoma,Nwankwo,23,Male,United Kingdom,1063.14,FALSE,FALSE
+James,Ibrahim,26,Male,Nigeria,90.82,FALSE,FALSE
+Olivia,Mensah,33,Male,Germany,1639.85,FALSE,TRUE
+Liam,Roberts,27,Male,Nigeria,1161.09,TRUE,FALSE
+James,Adebayo,49,Male,France,2682.05,TRUE,FALSE
+Chinedu,Brown,19,Female,United Kingdom,1136.03,FALSE,FALSE
+Ethan,Davies,48,Male,Germany,862.29,TRUE,FALSE
+Lily,Nwankwo,56,Male,Nigeria,1918.57,FALSE,FALSE
+Oliver,Smith,43,Female,United Kingdom,2082.59,TRUE,FALSE
+Henry,Brown,43,Female,Germany,1492.97,TRUE,FALSE
+Mia,Mensah,43,Female,Spain,1374.68,TRUE,FALSE
+Liam,Ibrahim,36,Female,Spain,659.08,TRUE,FALSE
+Bolaji,Dlamini,32,Female,Nigeria,253.62,FALSE,TRUE
+Lily,Ibrahim,35,Female,Germany,2697.96,TRUE,FALSE
+Elijah,Davies,24,Female,Germany,2607.47,FALSE,FALSE
+Ethan,Davies,25,Female,United Kingdom,1309.53,FALSE,FALSE
+Kemi,Ibrahim,18,Female,Germany,1598.18,TRUE,FALSE
+Chinedu,Mensah,24,Male,Germany,869,TRUE,FALSE
+Isla,Adeyemi,48,Male,Nigeria,101.64,FALSE,FALSE
+Charlotte,Davies,48,Female,Spain,1488.06,FALSE,FALSE
+Ava,Adeyemi,26,Male,Nigeria,1633.02,FALSE,FALSE
+Tosin,Adebayo,51,Female,Kenya,1974.11,TRUE,FALSE
+Charlotte,Jones,59,Male,France,632.59,FALSE,FALSE
+Tosin,Wilson,33,Male,Nigeria,2341.36,TRUE,FALSE
+Lily,Dlamini,25,Male,United Kingdom,1143.8,FALSE,TRUE
+Ethan,Thomas,23,Female,United Kingdom,4673.32,TRUE,FALSE
+Kemi,Chukwu,36,Other,Nigeria,705.08,FALSE,FALSE
+Bolaji,Jones,22,Other,South Africa,1044.79,FALSE,FALSE
+Sophia,Okafor,35,Female,Nigeria,459.34,TRUE,FALSE
+Chinedu,Nwankwo,39,Male,United Kingdom,2328.87,TRUE,FALSE
+Mason,Thomas,35,Female,South Africa,164.22,TRUE,FALSE
+Kemi,Williams,39,Female,Germany,1229.26,TRUE,FALSE
+Ifeoma,Okoye,39,Male,Kenya,3628.66,TRUE,FALSE
+Abubakar,Roberts,27,Male,Spain,1029.84,TRUE,FALSE
+Segun,Jones,31,Male,Spain,1965.45,TRUE,TRUE
+James,Adebayo,38,Male,Kenya,952.51,TRUE,FALSE
+Segun,Roberts,48,Male,South Africa,660.75,TRUE,FALSE
+Isla,Ibrahim,29,Female,Spain,482.54,TRUE,FALSE
+Elijah,Williams,26,Female,United Kingdom,1152.06,TRUE,FALSE
+Mason,Adebayo,35,Male,Nigeria,275.25,TRUE,FALSE
+Aisha,Taylor,18,Male,United Kingdom,834.44,TRUE,FALSE
+Noah,Ibrahim,45,Female,United Kingdom,545.65,TRUE,FALSE
+Chinedu,Taylor,35,Male,Spain,173.22,FALSE,TRUE
+Femi,Evans,39,Female,United Kingdom,1247.97,FALSE,FALSE
+Isla,Brown,39,Male,United Kingdom,3924.74,FALSE,FALSE
+Noah,Taylor,46,Male,Spain,2013.08,FALSE,FALSE
+Tosin,Smith,31,Female,Nigeria,145.28,TRUE,FALSE
+Ella,Ogunleye,28,Male,United Kingdom,1268.73,TRUE,FALSE
+Oliver,Brown,59,Male,Spain,829.87,FALSE,FALSE
+Liam,Okafor,47,Male,South Africa,451.42,TRUE,FALSE
+Tosin,Mensah,18,Female,Nigeria,257.98,FALSE,TRUE
+Ella,Jones,32,Female,South Africa,736.84,TRUE,FALSE
+Tosin,Nwankwo,43,Male,Germany,2706.28,TRUE,FALSE
+Mia,Williams,25,Male,Germany,592.26,TRUE,FALSE
+Noah,Ogunleye,19,Female,Nigeria,1980.84,TRUE,FALSE
+Aisha,Nwankwo,57,Female,Nigeria,2118.2,TRUE,TRUE
+Ava,Adebayo,31,Female,United Kingdom,1238.44,FALSE,FALSE
+Ava,Smith,26,Female,Nigeria,2949.83,FALSE,FALSE
+Mason,Thomas,41,Male,United Kingdom,1880.02,TRUE,FALSE
+Tosin,Smith,18,Male,Germany,594.8,TRUE,FALSE
+Lucas,Adebayo,35,Female,United Kingdom,743.43,TRUE,FALSE
+Mia,Brown,25,Female,Nigeria,1946.53,TRUE,FALSE
+Amelia,Smith,37,Male,Germany,771.56,TRUE,FALSE
+Ethan,Nwankwo,37,Male,United Kingdom,3509.9,FALSE,FALSE
+Henry,Ibrahim,38,Male,Nigeria,185.61,FALSE,FALSE
+Amelia,Ogunleye,45,Male,Germany,406.87,TRUE,FALSE
+Isla,Okoye,25,Male,France,2569.97,FALSE,FALSE
+James,Ibrahim,42,Female,Germany,768.36,FALSE,FALSE
+Tosin,Wilson,20,Male,South Africa,295.22,FALSE,FALSE
+Noah,Smith,19,Female,France,1387.75,TRUE,FALSE
+Mason,Wilson,36,Male,Kenya,4927.69,FALSE,TRUE
+Isla,Jones,22,Female,South Africa,906.46,TRUE,FALSE
+James,Williams,31,Female,Germany,254.39,TRUE,FALSE
+Elijah,Taylor,37,Male,France,623.38,FALSE,FALSE
+Noah,Adebayo,32,Male,United Kingdom,842.32,FALSE,FALSE
+Sophia,Brown,36,Male,Germany,1026.63,FALSE,FALSE
+James,Roberts,36,Male,South Africa,1757.54,TRUE,FALSE
+Abubakar,Dlamini,26,Male,Nigeria,2086.71,TRUE,TRUE
+Liam,Ogunleye,26,Female,Nigeria,1547.1,TRUE,FALSE
+Oliver,Adebayo,35,Female,Spain,449.86,FALSE,TRUE
+Ava,Smith,27,Male,Nigeria,174.21,TRUE,FALSE
+Liam,Williams,34,Female,France,895.62,TRUE,TRUE
+Ella,Adebayo,28,Female,United Kingdom,912.97,TRUE,FALSE
+Amelia,Adebayo,33,Male,South Africa,446.02,FALSE,FALSE
+Olivia,Ogunleye,36,Female,United Kingdom,464.45,FALSE,TRUE
+James,Taylor,24,Male,Spain,1059.06,TRUE,FALSE
+Segun,Okoye,29,Male,United Kingdom,1163.98,FALSE,FALSE
+Emily,Okoye,30,Female,Kenya,202.36,TRUE,FALSE
+Ifeoma,Mensah,23,Male,Spain,1065.19,TRUE,FALSE
+Noah,Dlamini,20,Male,South Africa,3261.96,TRUE,FALSE
+Mason,Ibrahim,31,Female,Kenya,2457.98,TRUE,FALSE
+Mia,Okoye,18,Female,South Africa,530.9,FALSE,FALSE
+Henry,Ogunleye,45,Male,Nigeria,2348.44,TRUE,FALSE
+Ifeoma,Ibrahim,50,Female,United Kingdom,1975.05,TRUE,FALSE
+Henry,Evans,27,Female,Nigeria,4406.77,FALSE,FALSE
+Lucas,Jones,30,Male,United Kingdom,799.98,FALSE,FALSE
+Noah,Dlamini,49,Male,United Kingdom,2276.89,TRUE,FALSE
+Amelia,Smith,37,Male,Nigeria,2103.02,FALSE,TRUE
+Kemi,Ibrahim,30,Other,France,1065.35,TRUE,FALSE
+Noah,Roberts,33,Male,Kenya,4129.55,FALSE,FALSE
+Chinedu,Okafor,18,Male,Kenya,1003.87,TRUE,FALSE
+Emily,Adeyemi,37,Female,France,1083.61,TRUE,FALSE
+Femi,Smith,31,Female,South Africa,1826.09,TRUE,FALSE
+Lily,Dlamini,53,Male,Nigeria,2701.09,TRUE,FALSE
+Bolaji,Mensah,45,Male,Nigeria,12.08,FALSE,FALSE
+Chinedu,Williams,25,Female,Nigeria,1005.53,TRUE,FALSE
+Mia,Evans,26,Male,United Kingdom,129.02,TRUE,FALSE
+Amelia,Ogunleye,33,Male,Germany,632.58,TRUE,FALSE
+Liam,Okoye,21,Male,Nigeria,4225.13,FALSE,FALSE
+Lily,Adebayo,49,Male,Nigeria,1562.7,TRUE,FALSE
+Isla,Okafor,42,Male,France,2680.52,TRUE,FALSE
+Noah,Dlamini,32,Other,South Africa,932.35,TRUE,FALSE
+Alexander,Nwankwo,28,Male,United Kingdom,420.5,TRUE,FALSE
+Femi,Okoye,35,Male,France,745.45,TRUE,TRUE
+Abubakar,Mensah,33,Male,France,1547.67,TRUE,FALSE
+Ella,Brown,47,Male,United Kingdom,373.83,FALSE,TRUE
+Charlotte,Ogunleye,35,Male,South Africa,1515.19,FALSE,FALSE
+Lily,Ibrahim,39,Female,France,411.89,TRUE,FALSE
+Mia,Wilson,46,Female,Spain,1447.73,TRUE,FALSE
+Isla,Ibrahim,50,Female,Germany,556.49,TRUE,FALSE
+Abubakar,Ogunleye,50,Female,Germany,501.48,FALSE,FALSE
+Henry,Wilson,32,Male,United Kingdom,1900.98,FALSE,FALSE
+Henry,Chukwu,32,Female,Nigeria,1071.85,FALSE,TRUE
+Lily,Davies,39,Other,Nigeria,395.01,FALSE,FALSE
+Ella,Taylor,24,Female,France,382.19,TRUE,FALSE
+Isla,Ogunleye,32,Female,Spain,4180.77,TRUE,FALSE
+Ifeoma,Dlamini,24,Female,Nigeria,463.81,TRUE,FALSE
+Bolaji,Brown,37,Female,United Kingdom,2416.79,TRUE,FALSE
+Segun,Nwankwo,40,Male,Nigeria,3230.42,TRUE,FALSE
+Mia,Ogunleye,24,Male,Spain,299.47,TRUE,TRUE
+Aisha,Wilson,32,Male,Germany,500.09,FALSE,FALSE
+Abubakar,Roberts,37,Male,Nigeria,924.44,TRUE,FALSE
+Sophia,Roberts,35,Other,Germany,1145.78,FALSE,FALSE
+Alexander,Williams,48,Male,United Kingdom,254.1,TRUE,FALSE
+Kemi,Ibrahim,18,Female,Germany,1321.27,TRUE,FALSE
+Oliver,Taylor,33,Female,Germany,3399.86,TRUE,FALSE
+Abubakar,Jones,53,Male,Germany,965.87,TRUE,FALSE
+Liam,Adebayo,28,Female,Spain,4094.79,FALSE,TRUE
+Lucas,Dlamini,41,Male,Kenya,1542,FALSE,FALSE
+Lily,Thomas,19,Female,Nigeria,385.64,TRUE,FALSE
+Kemi,Adeyemi,50,Female,United Kingdom,3104.24,TRUE,FALSE
+Mia,Nwankwo,32,Female,South Africa,2348.07,FALSE,FALSE
+Bolaji,Taylor,30,Female,Spain,580.79,TRUE,FALSE
+Aisha,Thomas,50,Male,France,286.6,TRUE,FALSE
+Charlotte,Chukwu,31,Female,France,998.92,TRUE,FALSE
+Ethan,Dlamini,33,Female,France,298.55,TRUE,TRUE
+Chinedu,Okafor,27,Female,France,2120.67,TRUE,FALSE
+Ella,Taylor,28,Female,United Kingdom,870.71,TRUE,FALSE
+Ngozi,Okafor,38,Female,Nigeria,629.72,FALSE,FALSE
+Bolaji,Nwankwo,35,Male,Nigeria,430.83,FALSE,FALSE
+Noah,Wilson,45,Female,Spain,1151.22,FALSE,FALSE
+Mason,Roberts,24,Female,Nigeria,1269.24,FALSE,TRUE
+Lucas,Taylor,28,Female,Nigeria,166.03,TRUE,FALSE
+Chinedu,Williams,36,Male,United Kingdom,1187.21,FALSE,FALSE
+Liam,Thomas,24,Female,Germany,1463.61,FALSE,TRUE
+Lucas,Evans,18,Female,South Africa,546.97,FALSE,FALSE
+Kemi,Taylor,37,Male,United Kingdom,95.8,TRUE,FALSE
+Sophia,Okafor,29,Female,United Kingdom,437.64,TRUE,FALSE
+Noah,Jones,41,Male,France,639.87,TRUE,FALSE
+Lucas,Williams,42,Male,Germany,1345.77,FALSE,FALSE
+Oliver,Smith,40,Male,United Kingdom,320.6,TRUE,TRUE
+Tosin,Chukwu,25,Male,Nigeria,1199.75,TRUE,FALSE
+Charlotte,Taylor,21,Male,Germany,681.92,TRUE,TRUE
+Charlotte,Roberts,24,Male,Germany,2261.59,FALSE,FALSE
+Noah,Mensah,33,Male,United Kingdom,449.34,TRUE,FALSE
+Olivia,Wilson,32,Male,Kenya,219.63,TRUE,TRUE
+Lily,Brown,47,Male,Nigeria,309.38,TRUE,FALSE
+Tosin,Okoye,35,Female,Spain,701.54,FALSE,TRUE
+Amelia,Brown,49,Male,France,2751.63,TRUE,FALSE
+Ella,Smith,37,Male,Nigeria,1411.43,TRUE,FALSE
+Elijah,Brown,48,Female,Spain,519.53,TRUE,FALSE
+Ella,Dlamini,41,Male,France,231.29,FALSE,TRUE
+Charlotte,Davies,28,Male,Germany,92.55,FALSE,FALSE
+Emily,Smith,22,Male,United Kingdom,3168.56,FALSE,FALSE
+Sophia,Williams,51,Female,United Kingdom,307.74,TRUE,FALSE
+James,Roberts,33,Male,United Kingdom,2540.97,TRUE,FALSE
+Liam,Okafor,22,Male,United Kingdom,784.37,FALSE,FALSE
+Kemi,Taylor,48,Female,United Kingdom,54.57,FALSE,FALSE
+Segun,Williams,50,Male,France,337.88,FALSE,FALSE
+Mia,Ogunleye,18,Female,Germany,275.92,TRUE,FALSE
+Ava,Taylor,33,Female,United Kingdom,2536.5,TRUE,FALSE
+Bolaji,Adeyemi,18,Female,Spain,1112.27,TRUE,FALSE
+Alexander,Smith,26,Female,South Africa,345.05,FALSE,FALSE
+Bolaji,Mensah,27,Male,Germany,1140.39,TRUE,FALSE
+Olivia,Chukwu,21,Female,Spain,2283.79,TRUE,FALSE
+Mason,Chukwu,48,Female,Spain,533.71,TRUE,FALSE
+Liam,Ogunleye,21,Male,Nigeria,997.22,TRUE,FALSE
+Chinedu,Davies,24,Female,Germany,521.66,TRUE,FALSE
+Noah,Wilson,38,Male,France,3066.07,TRUE,FALSE
+Oliver,Wilson,57,Male,Germany,496.08,TRUE,FALSE
+James,Okafor,26,Male,Germany,353.21,TRUE,FALSE
+Amelia,Okoye,36,Female,Nigeria,1969.83,FALSE,FALSE
+Segun,Chukwu,18,Female,Nigeria,284.68,FALSE,FALSE
+Abubakar,Wilson,31,Female,France,1678.56,TRUE,FALSE
+Aisha,Adebayo,41,Male,Nigeria,175.38,FALSE,FALSE
+Ethan,Chukwu,34,Male,United Kingdom,2331.11,TRUE,FALSE
+Ava,Thomas,46,Female,United Kingdom,1037.39,FALSE,FALSE
+Abubakar,Evans,18,Female,United Kingdom,289.95,TRUE,FALSE
+Tosin,Adebayo,33,Male,Spain,3449.51,TRUE,FALSE
+Mason,Jones,31,Female,Germany,413.6,TRUE,FALSE
+Aisha,Adeyemi,30,Male,Nigeria,2414.21,TRUE,FALSE
+Mason,Ogunleye,25,Male,Spain,523.74,FALSE,FALSE
+Noah,Roberts,30,Male,United Kingdom,453.29,FALSE,FALSE
+Charlotte,Okoye,25,Female,Nigeria,1227.8,TRUE,FALSE
+Ella,Dlamini,36,Female,Nigeria,3727.53,TRUE,FALSE
+Mason,Okoye,42,Female,France,521.26,TRUE,FALSE
+Henry,Adeyemi,18,Female,Nigeria,848.83,TRUE,FALSE
+Charlotte,Nwankwo,27,Female,Germany,145.75,FALSE,TRUE
+Ella,Thomas,46,Female,United Kingdom,1952.21,TRUE,FALSE
+Aisha,Roberts,26,Male,Germany,556.98,TRUE,FALSE
+Femi,Okoye,31,Male,Germany,1059,TRUE,FALSE
+Bolaji,Ogunleye,40,Male,Kenya,2023.07,FALSE,FALSE
+Amelia,Smith,47,Female,United Kingdom,2496.71,FALSE,FALSE
+Abubakar,Wilson,50,Female,Nigeria,1312.16,TRUE,FALSE
+Femi,Dlamini,28,Male,Nigeria,1089.13,TRUE,FALSE
+Lily,Davies,34,Female,United Kingdom,541.34,TRUE,FALSE
+Sophia,Davies,21,Female,France,1330,FALSE,FALSE
+Amelia,Taylor,37,Female,Spain,495.12,FALSE,FALSE
+Lucas,Adeyemi,42,Female,United Kingdom,1023.71,TRUE,FALSE
+Mason,Williams,49,Female,United Kingdom,915.07,TRUE,FALSE
+Emily,Evans,54,Female,France,1136.2,TRUE,FALSE
+Lucas,Okoye,35,Female,Kenya,693.75,TRUE,FALSE
+Emily,Dlamini,37,Female,United Kingdom,627.85,TRUE,FALSE
+Bolaji,Brown,41,Male,Germany,319.75,TRUE,FALSE
+Mason,Chukwu,28,Male,United Kingdom,2013.23,FALSE,FALSE
+Isla,Brown,33,Male,Kenya,442.57,TRUE,TRUE
+Ella,Evans,38,Female,Germany,775.17,TRUE,FALSE
+Chinedu,Williams,55,Female,United Kingdom,103.53,FALSE,FALSE
+Isla,Jones,33,Male,France,2140.82,FALSE,FALSE
+Elijah,Ogunleye,21,Male,Germany,1941.92,TRUE,FALSE
+Ethan,Smith,18,Female,Spain,692.15,TRUE,FALSE
+Liam,Chukwu,22,Male,Nigeria,2246.57,FALSE,TRUE
+Oliver,Ogunleye,51,Female,United Kingdom,1875.68,TRUE,FALSE
+Ifeoma,Okoye,34,Male,Spain,45.95,TRUE,FALSE
+Olivia,Okoye,37,Female,United Kingdom,404.72,FALSE,FALSE
+Ethan,Okoye,44,Female,France,870.59,TRUE,FALSE
+Ella,Nwankwo,36,Female,South Africa,483.87,FALSE,TRUE
+Ella,Brown,18,Male,Nigeria,379.53,TRUE,FALSE
+James,Okoye,33,Male,Nigeria,1527.16,FALSE,TRUE
+Noah,Ibrahim,18,Male,Nigeria,1626.43,TRUE,FALSE
+Noah,Mensah,29,Male,Spain,2564.14,TRUE,FALSE
+Ifeoma,Okafor,39,Female,United Kingdom,195.84,TRUE,FALSE
+Mia,Ibrahim,59,Male,Nigeria,922.33,TRUE,FALSE
+Tosin,Roberts,39,Female,United Kingdom,964.3,TRUE,FALSE
+Kemi,Taylor,38,Female,United Kingdom,3293.85,TRUE,FALSE
+Segun,Smith,24,Female,Spain,807.28,TRUE,FALSE
+Bolaji,Jones,38,Female,Germany,2341.66,TRUE,FALSE
+Liam,Ogunleye,45,Male,Nigeria,2878.28,FALSE,FALSE
+Mason,Chukwu,26,Male,France,1363.71,TRUE,FALSE
+Tosin,Chukwu,63,Male,United Kingdom,811.64,TRUE,FALSE
+Femi,Mensah,37,Female,United Kingdom,1104.14,TRUE,FALSE
+Liam,Wilson,41,Male,United Kingdom,3579.97,FALSE,FALSE
+Bolaji,Adebayo,29,Female,United Kingdom,451.67,TRUE,FALSE
+Chinedu,Thomas,18,Female,France,1262.82,TRUE,FALSE
+Liam,Adeyemi,30,Female,Nigeria,291.96,TRUE,FALSE
+Mason,Ogunleye,22,Male,South Africa,816.99,FALSE,FALSE
+Mason,Taylor,40,Male,United Kingdom,439.33,TRUE,FALSE
+Lily,Davies,49,Male,Nigeria,2973.44,FALSE,FALSE
+Femi,Brown,41,Female,Germany,575.86,TRUE,FALSE
+Olivia,Wilson,31,Male,Spain,3835.69,TRUE,FALSE
+Segun,Adeyemi,24,Male,United Kingdom,2661.3,FALSE,FALSE
+Alexander,Adeyemi,28,Female,South Africa,532.6,FALSE,FALSE
+Ella,Adebayo,23,Female,Germany,2361.88,TRUE,FALSE
+Alexander,Taylor,30,Female,Nigeria,1540.23,FALSE,FALSE
+Lily,Okafor,32,Female,Spain,2193.02,FALSE,FALSE
+Ava,Smith,35,Male,South Africa,794.93,FALSE,FALSE
+Alexander,Brown,27,Male,South Africa,700.73,FALSE,FALSE
+Mason,Brown,29,Male,Nigeria,467.04,FALSE,FALSE
+Segun,Nwankwo,32,Female,France,888.89,TRUE,FALSE
+Ifeoma,Mensah,42,Female,France,931.58,TRUE,FALSE
+Elijah,Taylor,44,Male,Nigeria,3501.93,TRUE,FALSE
+Elijah,Thomas,18,Male,Nigeria,725.05,TRUE,FALSE
+Mason,Smith,43,Male,United Kingdom,475.22,TRUE,FALSE
+Sophia,Nwankwo,30,Female,France,1212.81,FALSE,FALSE
+Alexander,Thomas,32,Other,France,53.77,FALSE,FALSE
+Lily,Ibrahim,33,Female,Germany,807.16,TRUE,FALSE
+Femi,Taylor,36,Female,Nigeria,778.14,FALSE,FALSE
+Ava,Evans,43,Female,Nigeria,3199.24,TRUE,FALSE
+Lily,Ogunleye,33,Other,United Kingdom,608.5,FALSE,TRUE
+Isla,Williams,30,Male,France,1746.43,TRUE,FALSE
+Alexander,Chukwu,45,Male,Kenya,1257.44,TRUE,FALSE
+Chinedu,Mensah,29,Male,United Kingdom,374.45,TRUE,FALSE
+Ella,Jones,49,Female,Germany,1930.02,TRUE,FALSE
+Liam,Wilson,23,Female,Kenya,1099.72,TRUE,FALSE
+Liam,Ogunleye,29,Male,United Kingdom,637.72,TRUE,FALSE
+Ethan,Roberts,26,Female,Spain,728.41,TRUE,FALSE
+Emily,Dlamini,31,Other,Germany,681.72,FALSE,TRUE
+Elijah,Chukwu,23,Male,United Kingdom,756.23,TRUE,FALSE
+Mia,Okoye,50,Female,Spain,163.24,TRUE,FALSE
+Tosin,Wilson,33,Female,Kenya,674.23,FALSE,FALSE
+Lucas,Brown,37,Male,France,989.43,TRUE,FALSE
+Ifeoma,Okafor,30,Male,France,725.24,TRUE,FALSE
+Emily,Roberts,42,Male,Nigeria,965.22,TRUE,FALSE
+Lucas,Okafor,45,Male,South Africa,922.59,FALSE,FALSE
+Lucas,Evans,19,Male,United Kingdom,2796.02,TRUE,FALSE
+Abubakar,Dlamini,42,Male,Nigeria,703.2,TRUE,FALSE
+Alexander,Smith,24,Female,Germany,176.96,FALSE,FALSE
+Lucas,Adeyemi,37,Female,Germany,4866.69,FALSE,FALSE
+Oliver,Wilson,31,Female,United Kingdom,1730.25,TRUE,FALSE
+Amelia,Chukwu,41,Male,South Africa,1281.94,FALSE,FALSE
+Aisha,Chukwu,18,Male,Nigeria,1402.07,TRUE,FALSE
+Noah,Ibrahim,34,Female,France,258.9,TRUE,FALSE
+Alexander,Okafor,34,Male,Germany,194.08,TRUE,FALSE
+Liam,Ogunleye,37,Male,United Kingdom,2733.58,TRUE,FALSE
+Abubakar,Brown,18,Female,Nigeria,711.54,TRUE,FALSE
+Sophia,Taylor,51,Male,United Kingdom,231.24,TRUE,FALSE
+Ethan,Okafor,18,Female,France,1018.84,FALSE,FALSE
+Ava,Davies,34,Male,Nigeria,1920.02,TRUE,FALSE
+Femi,Okafor,31,Male,France,493.41,TRUE,FALSE
+Olivia,Nwankwo,29,Male,South Africa,1092.27,TRUE,FALSE
+Lily,Roberts,30,Male,Nigeria,153.44,TRUE,FALSE
+Oliver,Dlamini,34,Male,Spain,112.19,TRUE,FALSE
+Elijah,Dlamini,18,Female,Nigeria,2193.64,FALSE,TRUE
+Noah,Okafor,28,Female,Nigeria,609.77,TRUE,FALSE
+Tosin,Ibrahim,26,Female,Germany,435.53,FALSE,TRUE
+Sophia,Wilson,37,Female,South Africa,733.19,TRUE,FALSE
+Oliver,Brown,42,Male,South Africa,672.02,TRUE,TRUE
+Mason,Williams,18,Male,Spain,685.76,TRUE,FALSE
+Charlotte,Wilson,37,Male,France,749.41,TRUE,FALSE
+Olivia,Jones,45,Female,South Africa,938.35,TRUE,FALSE
+Bolaji,Thomas,52,Female,United Kingdom,657.69,TRUE,FALSE
+Chinedu,Adeyemi,31,Male,Spain,954.41,TRUE,FALSE
+Ethan,Wilson,40,Female,Germany,1743.74,TRUE,FALSE
+Olivia,Smith,24,Female,Nigeria,528.44,TRUE,FALSE
+Olivia,Mensah,26,Female,Germany,647.17,TRUE,FALSE
+Alexander,Wilson,27,Female,Germany,156.3,TRUE,FALSE
+Oliver,Wilson,38,Male,Nigeria,848.39,TRUE,FALSE
+Isla,Nwankwo,19,Female,Germany,2586.8,TRUE,FALSE
+Charlotte,Okoye,45,Female,Germany,1760.79,TRUE,FALSE
+Ava,Adebayo,33,Female,France,578.86,TRUE,FALSE
+Sophia,Jones,26,Other,United Kingdom,1654.16,TRUE,FALSE
+Aisha,Adebayo,40,Female,United Kingdom,536.14,TRUE,FALSE
+Elijah,Roberts,36,Female,Germany,58.03,TRUE,FALSE
+Noah,Williams,50,Female,Kenya,1169.76,TRUE,FALSE
+Ethan,Mensah,31,Male,South Africa,496.49,TRUE,FALSE
+Ava,Wilson,35,Male,Kenya,3049.67,FALSE,FALSE
+James,Brown,56,Female,Kenya,1731.96,FALSE,FALSE
+Bolaji,Okafor,37,Male,Nigeria,1465.24,TRUE,FALSE
+Mia,Mensah,36,Female,United Kingdom,503.32,TRUE,FALSE
+Ava,Wilson,53,Female,France,551.32,FALSE,FALSE
+Oliver,Wilson,43,Male,United Kingdom,1322.43,TRUE,FALSE
+Liam,Williams,22,Male,Germany,302.08,TRUE,FALSE
+Amelia,Ibrahim,44,Female,Nigeria,1318.07,TRUE,FALSE
+Noah,Okoye,36,Female,Nigeria,1876.68,TRUE,FALSE
+Olivia,Ogunleye,33,Male,United Kingdom,1433.74,TRUE,FALSE
+Ethan,Roberts,42,Female,Germany,648.16,TRUE,FALSE
+Femi,Adebayo,46,Male,Nigeria,1180.26,TRUE,FALSE
+Mason,Taylor,37,Male,Nigeria,2596.01,TRUE,FALSE
+Oliver,Davies,57,Female,Spain,558.27,FALSE,FALSE
+Femi,Williams,39,Female,Germany,421.56,FALSE,FALSE
+Tosin,Okoye,41,Male,France,1875.65,FALSE,FALSE
+Mason,Williams,33,Male,South Africa,968.97,TRUE,TRUE
+Lucas,Evans,37,Male,Spain,153.53,FALSE,FALSE
+Alexander,Adeyemi,36,Male,France,1334.82,TRUE,FALSE
+Chinedu,Mensah,22,Female,Nigeria,1213.68,TRUE,FALSE
+Ethan,Nwankwo,42,Female,Nigeria,951.52,TRUE,FALSE
+Amelia,Williams,43,Female,United Kingdom,1626.61,FALSE,FALSE
+Femi,Wilson,25,Female,United Kingdom,607.89,FALSE,TRUE
+Ethan,Okoye,18,Male,United Kingdom,1222.44,TRUE,FALSE
+Aisha,Nwankwo,26,Female,United Kingdom,261.26,TRUE,FALSE
+Ngozi,Davies,18,Female,Spain,2131.56,TRUE,FALSE
+Noah,Ibrahim,25,Male,Spain,541.47,TRUE,FALSE
+Henry,Okoye,24,Male,Nigeria,1441.64,TRUE,FALSE
+James,Ogunleye,33,Male,United Kingdom,991.67,TRUE,TRUE
+Segun,Roberts,28,Male,Kenya,109.93,TRUE,FALSE
+Bolaji,Okoye,56,Female,Spain,505.59,TRUE,FALSE
+Liam,Taylor,28,Male,France,1052.13,TRUE,FALSE
+Isla,Adeyemi,45,Male,South Africa,1086.4,TRUE,FALSE
+Lily,Mensah,29,Female,Nigeria,52.76,TRUE,FALSE
+Amelia,Adeyemi,26,Male,Nigeria,279.65,FALSE,FALSE
+Elijah,Brown,40,Female,United Kingdom,1543.18,TRUE,FALSE
+Chinedu,Ogunleye,28,Male,Germany,546.52,FALSE,FALSE
+Mason,Wilson,30,Male,Nigeria,2314.64,TRUE,FALSE
+Isla,Wilson,27,Male,Nigeria,178.61,FALSE,FALSE
+Henry,Jones,26,Female,France,2396.04,TRUE,FALSE
+Tosin,Taylor,21,Female,United Kingdom,301.05,FALSE,FALSE
+Emily,Wilson,30,Male,Nigeria,1824,TRUE,FALSE
+Ava,Nwankwo,24,Male,France,2390.73,FALSE,FALSE
+Tosin,Roberts,27,Male,France,1189.16,TRUE,FALSE
+James,Jones,32,Female,United Kingdom,1205.88,TRUE,FALSE
+Ava,Jones,33,Male,Spain,969.34,TRUE,FALSE
+Olivia,Okafor,47,Female,United Kingdom,1613.57,TRUE,TRUE
+Femi,Okoye,29,Male,Germany,705.25,TRUE,FALSE
+Aisha,Smith,32,Male,South Africa,461.25,TRUE,FALSE
+Charlotte,Evans,54,Female,Spain,1094.81,TRUE,FALSE
+Isla,Ogunleye,42,Female,Nigeria,868.38,TRUE,FALSE
+Olivia,Roberts,30,Female,Spain,1314.54,FALSE,FALSE
+Segun,Okafor,32,Female,Spain,247.16,TRUE,FALSE
+Ethan,Smith,46,Male,South Africa,1744.13,TRUE,FALSE
+Olivia,Ibrahim,18,Female,France,364.32,TRUE,FALSE
+Mia,Jones,21,Female,South Africa,1503.87,TRUE,FALSE
+Ethan,Thomas,38,Male,France,1138.04,FALSE,TRUE
+Mason,Dlamini,31,Female,Nigeria,712.89,FALSE,FALSE
+Charlotte,Dlamini,27,Male,Germany,573.08,FALSE,TRUE
+Ngozi,Evans,33,Female,France,1365.44,TRUE,FALSE
+Elijah,Taylor,26,Female,Spain,430.94,TRUE,TRUE
+Femi,Brown,45,Male,Nigeria,473.61,TRUE,TRUE
+Segun,Nwankwo,25,Other,France,1148.77,TRUE,FALSE
+Sophia,Evans,22,Male,United Kingdom,1272.29,TRUE,FALSE
+Alexander,Adeyemi,41,Female,Spain,856.99,FALSE,TRUE
+Aisha,Mensah,39,Male,Nigeria,1232.81,TRUE,FALSE
+Kemi,Ogunleye,44,Female,United Kingdom,1057.28,TRUE,TRUE
+Bolaji,Thomas,39,Female,United Kingdom,345.4,FALSE,TRUE
+Isla,Davies,30,Female,Kenya,887.28,FALSE,FALSE
+Kemi,Adebayo,29,Female,Germany,1074.29,FALSE,FALSE
+Femi,Okafor,27,Male,South Africa,836.73,TRUE,FALSE
+Mason,Brown,18,Male,Nigeria,815.7,FALSE,FALSE
+Ethan,Ogunleye,31,Other,United Kingdom,1624.94,FALSE,FALSE
+Ella,Roberts,40,Male,South Africa,808.53,TRUE,FALSE
+Elijah,Roberts,55,Female,United Kingdom,385.26,TRUE,FALSE
+Isla,Chukwu,37,Male,Nigeria,1846.48,FALSE,FALSE
+Oliver,Nwankwo,25,Male,United Kingdom,1062.37,TRUE,FALSE
+Segun,Adebayo,38,Male,France,1914.19,TRUE,FALSE
+Aisha,Brown,25,Male,Nigeria,1076.97,FALSE,TRUE
+Femi,Chukwu,33,Female,United Kingdom,236.16,TRUE,TRUE
+Bolaji,Okafor,18,Female,Nigeria,159.62,FALSE,FALSE
+Tosin,Jones,49,Male,France,141.77,TRUE,FALSE
+Ava,Taylor,26,Other,United Kingdom,1502.22,TRUE,TRUE
+Kemi,Mensah,39,Female,United Kingdom,1989.39,FALSE,FALSE
+James,Nwankwo,26,Male,Spain,3258.49,FALSE,FALSE
+Alexander,Okoye,31,Female,United Kingdom,93.54,TRUE,TRUE
+Amelia,Taylor,21,Female,Nigeria,2280.41,TRUE,FALSE
+Amelia,Brown,35,Male,United Kingdom,780.44,TRUE,FALSE
+James,Adeyemi,30,Male,United Kingdom,639.34,TRUE,FALSE
+Abubakar,Williams,22,Female,Nigeria,1054.63,FALSE,FALSE
+Aisha,Thomas,22,Male,Germany,170.51,TRUE,FALSE
+Ava,Adeyemi,33,Female,Spain,2533.68,FALSE,FALSE
+Elijah,Dlamini,18,Female,France,2033.77,TRUE,FALSE
+Alexander,Adeyemi,48,Female,Nigeria,670.09,FALSE,FALSE
+Aisha,Roberts,35,Other,United Kingdom,681.04,FALSE,FALSE
+Femi,Evans,32,Female,Kenya,757.41,TRUE,FALSE
+Olivia,Evans,24,Female,France,2290.41,TRUE,FALSE
+Noah,Smith,44,Male,France,131.35,FALSE,FALSE
+Abubakar,Davies,36,Male,Nigeria,541.91,FALSE,FALSE
+Ifeoma,Jones,32,Female,Germany,2099.56,FALSE,FALSE
+Segun,Okafor,46,Male,Nigeria,1116.88,FALSE,TRUE
+Charlotte,Adeyemi,18,Female,France,950.08,TRUE,FALSE
+Ifeoma,Ibrahim,24,Male,United Kingdom,1267.99,TRUE,FALSE
+Chinedu,Okoye,19,Female,Spain,250.51,FALSE,FALSE
+Aisha,Okafor,18,Female,France,1227.69,TRUE,FALSE
+James,Roberts,33,Male,France,155.29,FALSE,FALSE
+Bolaji,Williams,37,Male,United Kingdom,252.25,TRUE,FALSE
+Noah,Mensah,21,Female,Germany,1396.42,TRUE,FALSE
+Abubakar,Chukwu,22,Female,United Kingdom,810.21,FALSE,FALSE
+Ava,Smith,43,Male,United Kingdom,2580.99,TRUE,FALSE
+James,Jones,44,Male,Nigeria,673.11,TRUE,TRUE
+Chinedu,Evans,25,Male,United Kingdom,4042.14,TRUE,FALSE
+Ngozi,Brown,35,Male,United Kingdom,726.8,TRUE,FALSE
+Ava,Evans,36,Female,Germany,396.85,TRUE,FALSE
+Henry,Wilson,43,Male,France,709.96,TRUE,FALSE
+Sophia,Smith,37,Male,Nigeria,413.96,FALSE,TRUE
+Oliver,Davies,44,Female,South Africa,91.87,FALSE,FALSE
+Alexander,Ibrahim,29,Male,Nigeria,890.46,TRUE,FALSE
+Isla,Adebayo,36,Female,United Kingdom,269.82,TRUE,FALSE
+James,Roberts,45,Female,Nigeria,552.97,TRUE,FALSE
+Sophia,Dlamini,30,Male,France,606.32,FALSE,FALSE
+Ifeoma,Okafor,40,Male,United Kingdom,246.93,FALSE,FALSE
+Kemi,Davies,38,Male,France,2597.22,TRUE,FALSE
+Abubakar,Brown,32,Male,Spain,1397.84,FALSE,FALSE
+Henry,Nwankwo,37,Male,United Kingdom,2565.48,FALSE,FALSE
+Noah,Evans,22,Female,Spain,1319.57,FALSE,FALSE
+Ethan,Wilson,43,Male,Nigeria,4278.17,TRUE,FALSE
+Ava,Adeyemi,29,Female,France,2437.08,FALSE,FALSE
+Oliver,Williams,50,Female,Nigeria,2000.13,FALSE,FALSE
+Lucas,Jones,56,Male,Nigeria,654.06,FALSE,FALSE
+Tosin,Taylor,37,Female,Germany,187.93,TRUE,FALSE
+Ella,Evans,27,Female,France,817.41,FALSE,FALSE
+Bolaji,Nwankwo,41,Female,South Africa,939.85,TRUE,FALSE
+Oliver,Taylor,45,Female,United Kingdom,1235.93,TRUE,FALSE
+Aisha,Okoye,53,Female,France,1147.71,TRUE,FALSE
+Elijah,Adeyemi,32,Male,France,404.69,FALSE,FALSE
+Ella,Davies,42,Male,United Kingdom,531.34,TRUE,FALSE
+Sophia,Roberts,18,Other,Nigeria,743.27,TRUE,FALSE
+Sophia,Mensah,40,Female,Kenya,87.63,TRUE,FALSE
+Kemi,Adebayo,21,Female,Nigeria,1045.07,TRUE,FALSE
+Mason,Nwankwo,47,Female,Germany,113.68,FALSE,TRUE
+Henry,Mensah,29,Female,United Kingdom,987.14,TRUE,FALSE
+Henry,Ibrahim,35,Male,United Kingdom,2164.79,TRUE,FALSE
+Aisha,Williams,38,Male,Nigeria,715.21,TRUE,FALSE
+James,Chukwu,37,Male,South Africa,1984.29,FALSE,FALSE
+Ngozi,Okoye,27,Female,France,148.77,FALSE,FALSE
+Lucas,Adebayo,39,Female,Germany,1341.27,TRUE,FALSE
+Charlotte,Davies,45,Male,South Africa,424.23,FALSE,FALSE
+Amelia,Mensah,41,Female,Spain,394.36,TRUE,FALSE
+Charlotte,Mensah,54,Male,Germany,1520.89,FALSE,FALSE
+Alexander,Thomas,42,Male,France,1081.68,TRUE,FALSE
+Ngozi,Adebayo,20,Male,United Kingdom,1137.08,TRUE,FALSE
+Ifeoma,Chukwu,31,Female,France,3625.63,FALSE,TRUE
+Abubakar,Mensah,42,Female,Germany,1918.72,TRUE,FALSE
+Ella,Adeyemi,24,Female,France,263.78,TRUE,FALSE
+Amelia,Davies,33,Male,Germany,1507.51,TRUE,FALSE
+Emily,Ogunleye,41,Female,France,2772.12,TRUE,FALSE
+Olivia,Roberts,44,Female,Germany,686.18,FALSE,FALSE
+Ava,Okoye,35,Female,Kenya,484.43,TRUE,FALSE
+Noah,Thomas,50,Male,United Kingdom,1227.21,FALSE,FALSE
+Femi,Adeyemi,44,Female,Germany,345.53,TRUE,FALSE
+Ethan,Smith,20,Female,Nigeria,558.26,TRUE,FALSE
+Ngozi,Adebayo,38,Male,Nigeria,157.84,TRUE,TRUE
+Amelia,Dlamini,54,Female,Nigeria,821.61,TRUE,FALSE
+Isla,Dlamini,40,Male,Nigeria,1582.6,TRUE,FALSE
+Segun,Brown,34,Female,France,2325.3,FALSE,FALSE
+Bolaji,Thomas,33,Female,Nigeria,290.91,TRUE,FALSE
+Lily,Williams,21,Male,United Kingdom,105.28,TRUE,FALSE
+Abubakar,Thomas,47,Male,United Kingdom,2344.01,FALSE,FALSE
+Lily,Mensah,27,Male,Germany,1260.46,TRUE,FALSE
+Bolaji,Adebayo,36,Female,United Kingdom,2117.88,TRUE,FALSE
+Tosin,Adebayo,37,Male,Germany,786.8,FALSE,TRUE
+Ngozi,Ogunleye,46,Male,Nigeria,932.47,FALSE,FALSE
+Aisha,Mensah,48,Male,Germany,374.09,TRUE,FALSE
+Ethan,Wilson,18,Male,Kenya,1485.5,FALSE,FALSE
+Bolaji,Ibrahim,26,Male,France,515.28,TRUE,FALSE
+Liam,Okoye,36,Female,France,1523.02,TRUE,FALSE
+Chinedu,Evans,35,Male,United Kingdom,810.66,TRUE,FALSE
+Segun,Brown,41,Female,France,1236.59,TRUE,FALSE
+Sophia,Jones,44,Male,Nigeria,477.88,TRUE,FALSE
+Ifeoma,Okoye,22,Female,Germany,2483.76,TRUE,FALSE
+Amelia,Okafor,37,Male,Nigeria,3801.53,FALSE,TRUE
+James,Okoye,18,Male,Spain,4197.67,FALSE,TRUE
+Lucas,Smith,30,Male,South Africa,236.33,TRUE,FALSE
+Olivia,Davies,28,Female,South Africa,813.83,TRUE,FALSE
+Abubakar,Adeyemi,25,Male,Nigeria,780.87,FALSE,FALSE
+Isla,Evans,22,Male,Nigeria,1469.73,FALSE,FALSE
+Ava,Adeyemi,28,Female,France,3042.59,TRUE,FALSE
+Henry,Davies,46,Male,United Kingdom,663.74,TRUE,FALSE
+Ethan,Davies,33,Male,South Africa,983.79,TRUE,FALSE
+Tosin,Davies,37,Male,Germany,1678.3,TRUE,FALSE
+Aisha,Adeyemi,32,Female,Germany,1018.64,TRUE,FALSE
+Ella,Taylor,30,Female,Germany,1343.2,TRUE,FALSE
+Alexander,Davies,33,Female,Spain,1480.6,TRUE,FALSE
+Liam,Nwankwo,45,Male,United Kingdom,1356.5,FALSE,FALSE
+Alexander,Ibrahim,38,Female,Kenya,307.89,FALSE,FALSE
+Mia,Jones,18,Male,Nigeria,172.26,TRUE,FALSE
+Lucas,Davies,21,Male,South Africa,914.6,TRUE,FALSE
+Elijah,Thomas,49,Male,Nigeria,481.45,TRUE,FALSE
+Bolaji,Okoye,35,Male,Nigeria,1699.69,TRUE,TRUE
+Femi,Adebayo,44,Female,France,490.94,TRUE,FALSE
+Emily,Brown,40,Male,United Kingdom,344.52,FALSE,FALSE
+Segun,Wilson,18,Male,Spain,3989.23,TRUE,FALSE
+Bolaji,Dlamini,31,Male,France,2268.29,TRUE,FALSE
+Mia,Evans,42,Male,United Kingdom,743.29,TRUE,FALSE
+Kemi,Adebayo,29,Male,United Kingdom,389.65,FALSE,FALSE
+Ifeoma,Dlamini,31,Female,Spain,312.58,TRUE,FALSE
+Kemi,Chukwu,31,Female,Kenya,390.44,TRUE,FALSE
+Olivia,Nwankwo,38,Female,United Kingdom,575.09,TRUE,FALSE
+Bolaji,Adeyemi,33,Female,Germany,4788.26,TRUE,FALSE
+Amelia,Nwankwo,31,Female,Germany,862.65,FALSE,FALSE
+Lucas,Wilson,56,Male,Nigeria,2778.8,FALSE,FALSE
+Sophia,Ibrahim,29,Male,Spain,2873.3,TRUE,FALSE
+Lily,Adebayo,30,Female,Nigeria,1185.06,TRUE,FALSE
+Kemi,Ogunleye,42,Male,South Africa,456.24,TRUE,FALSE
+Kemi,Williams,42,Male,Nigeria,1339.75,FALSE,FALSE
+Aisha,Dlamini,42,Female,Nigeria,2877.88,TRUE,FALSE
+Femi,Jones,27,Female,South Africa,1035.88,FALSE,TRUE
+Liam,Adebayo,35,Female,France,410.65,FALSE,FALSE
+Ethan,Evans,41,Male,France,803.53,TRUE,FALSE
+Tosin,Wilson,26,Male,South Africa,776.53,TRUE,FALSE
+Isla,Ibrahim,41,Male,Germany,489.99,FALSE,TRUE
+Ngozi,Okoye,29,Female,Germany,389.97,FALSE,FALSE
+Ella,Adebayo,44,Male,France,2113.4,TRUE,FALSE
+Ava,Davies,25,Male,Nigeria,2394.93,FALSE,FALSE
+Chinedu,Smith,21,Male,Kenya,936.84,FALSE,TRUE
+Elijah,Adebayo,19,Female,United Kingdom,1110.66,TRUE,TRUE
+Abubakar,Chukwu,27,Female,Germany,1420.91,TRUE,FALSE
+Lucas,Adeyemi,20,Female,Germany,562.81,TRUE,FALSE
+Segun,Roberts,18,Male,France,1773.16,FALSE,FALSE
+Sophia,Ibrahim,20,Male,Kenya,744.32,TRUE,FALSE
+Charlotte,Davies,46,Other,Nigeria,706.87,TRUE,FALSE
+Lily,Wilson,31,Male,Kenya,143.37,FALSE,FALSE
+Lily,Evans,36,Female,United Kingdom,698.82,TRUE,FALSE
+James,Okoye,37,Other,Germany,2340.99,TRUE,TRUE
+Tosin,Taylor,18,Female,South Africa,38.48,TRUE,FALSE
+Mason,Okafor,38,Female,France,4302.3,TRUE,FALSE
+Ifeoma,Adeyemi,25,Female,South Africa,839.57,TRUE,FALSE
+Segun,Jones,34,Male,Spain,271.17,TRUE,FALSE
+James,Ibrahim,36,Male,United Kingdom,538.69,TRUE,FALSE
+Ifeoma,Thomas,24,Male,United Kingdom,337.35,FALSE,FALSE
+Mason,Ogunleye,24,Male,France,1290.58,FALSE,FALSE
+Oliver,Taylor,46,Female,Germany,44.01,TRUE,TRUE
+Liam,Roberts,42,Other,South Africa,1256.51,FALSE,FALSE
+Femi,Nwankwo,35,Female,France,370.09,FALSE,FALSE
+Femi,Nwankwo,19,Male,Spain,1017.7,TRUE,FALSE
+Kemi,Chukwu,18,Other,United Kingdom,1294.95,TRUE,FALSE
+Olivia,Nwankwo,53,Female,France,471.54,TRUE,FALSE
+Ella,Davies,31,Female,France,285.66,TRUE,FALSE
+Abubakar,Adeyemi,28,Male,Spain,182.96,TRUE,TRUE
+Sophia,Thomas,35,Male,Spain,780.62,FALSE,TRUE
+Elijah,Davies,52,Female,Nigeria,802.35,TRUE,FALSE
+Lucas,Williams,37,Female,France,954.14,TRUE,FALSE
+Chinedu,Mensah,22,Other,Nigeria,695.94,TRUE,FALSE
+Kemi,Thomas,45,Male,United Kingdom,592.46,TRUE,FALSE
+Liam,Davies,37,Male,France,669.74,TRUE,FALSE
+Charlotte,Roberts,25,Female,South Africa,534.98,TRUE,FALSE
+Tosin,Brown,29,Female,United Kingdom,509.16,TRUE,FALSE
+Mia,Ibrahim,36,Male,Spain,822.74,FALSE,TRUE
+Charlotte,Ibrahim,29,Female,Germany,958.71,FALSE,TRUE
+Sophia,Chukwu,38,Male,United Kingdom,584.55,TRUE,FALSE
+Kemi,Okoye,39,Female,Nigeria,1072.69,FALSE,FALSE
+Ava,Taylor,26,Female,Germany,2356.25,FALSE,FALSE
+Segun,Dlamini,45,Female,Kenya,2396.08,TRUE,FALSE
+Emily,Taylor,33,Female,United Kingdom,1827.04,TRUE,FALSE
+Isla,Nwankwo,30,Female,Nigeria,1458.09,FALSE,FALSE
+Amelia,Evans,18,Male,Nigeria,3725.49,TRUE,TRUE
+Bolaji,Thomas,51,Male,France,1072.21,FALSE,TRUE
+Bolaji,Dlamini,28,Male,South Africa,1044.19,FALSE,FALSE
+Sophia,Thomas,29,Female,France,1263.94,TRUE,FALSE
+Mason,Adeyemi,34,Male,Nigeria,1917.21,TRUE,FALSE
+Charlotte,Davies,26,Female,Germany,539.06,TRUE,FALSE
+Bolaji,Chukwu,67,Female,Germany,1816.63,TRUE,FALSE
+Lily,Ibrahim,37,Other,Germany,215.72,TRUE,FALSE
+Ava,Adebayo,42,Male,United Kingdom,286.85,TRUE,FALSE
+Femi,Jones,37,Male,Germany,35.69,TRUE,FALSE
+Ngozi,Adebayo,25,Male,Germany,2589.59,TRUE,FALSE
+Segun,Mensah,18,Female,France,1336.01,FALSE,FALSE
+Oliver,Adebayo,53,Female,Nigeria,912.6,FALSE,FALSE
+Femi,Davies,35,Male,Kenya,658.85,TRUE,FALSE
+Ava,Wilson,42,Female,Nigeria,785.6,TRUE,FALSE
+Tosin,Ogunleye,49,Male,Nigeria,3884.28,FALSE,FALSE
+Mia,Taylor,32,Female,United Kingdom,2754.12,TRUE,FALSE
+Olivia,Brown,29,Female,Nigeria,4968.6,TRUE,TRUE
+Oliver,Dlamini,18,Female,United Kingdom,645.79,FALSE,TRUE
+Ngozi,Chukwu,38,Female,Nigeria,774.48,FALSE,FALSE
+Mason,Thomas,20,Female,Nigeria,871.59,TRUE,TRUE
+Elijah,Brown,22,Male,France,343.54,FALSE,FALSE
+Lily,Okoye,35,Female,Nigeria,1608.1,TRUE,FALSE
+Sophia,Roberts,19,Female,Germany,308.63,FALSE,FALSE
